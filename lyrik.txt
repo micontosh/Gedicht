@@ -3,3 +3,5 @@ Farbpalette
 Rot
 Grün
 Blau
+
+Sind alles schöne Farben!
