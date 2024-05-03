@@ -1,3 +1,4 @@
 Farbpalette
 
 Rot
+Grün
